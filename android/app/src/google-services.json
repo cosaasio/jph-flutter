@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315477727263",
+    "firebase_url": "https://just-pets-hub-b1c76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "just-pets-hub-b1c76",
+    "storage_bucket": "just-pets-hub-b1c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315477727263:android:c6bec6d15a7ef04e561d2a",
+        "android_client_info": {
+          "package_name": "com.cosaas.jph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315477727263-ni9i7urt2jjafusesuuovdm3nhfv32p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGJkEmnSsc98yIYNqPw_7K7wkDssijYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315477727263-ni9i7urt2jjafusesuuovdm3nhfv32p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
